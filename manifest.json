@@ -1,0 +1,40 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "やーアドオン",
+    "description": "nannn",
+    "uuid": "1c312c83-1b3b-45d1-a23c-62df3cbae66e",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "nannn",
+      "type": "data",
+      "uuid": "70ab8596-764d-4848-baaf-bc365cbc3cd1",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "315f3984-91e8-41de-8789-4e72926293cb",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}
