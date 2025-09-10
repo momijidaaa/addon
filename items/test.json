@@ -2,7 +2,7 @@
     "format_version": "1.21.10",
     "minecraft:item": {
       "description": {
-        "identifier": "test:sample_item"
+        "identifier": "mc:test"
       },
       "components": {
         "minecraft:icon":"test"
